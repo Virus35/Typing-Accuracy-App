@@ -43,7 +43,7 @@ This is the assignment given in the **"JavaScript Full Stack Web Developer Bootc
 ### 📌 Acknowledgement
 
 - **Course Instructor** - [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/)
-- **Code Refernce** - [CodingNepal](https://codingnepalweb.com/demos/typing-speed-test-game-javascript/)
-- **Blinking Animation Refernce** -[StackOverFlow](https://stackoverflow.com/questions/16344354/how-to-make-blinking-flashing-text-with-css-3)
+- **Code Reference** - [CodingNepal](https://codingnepalweb.com/demos/typing-speed-test-game-javascript/)
+- **Blinking Animation Reference** -[StackOverFlow](https://stackoverflow.com/questions/16344354/how-to-make-blinking-flashing-text-with-css-3)
 
 
